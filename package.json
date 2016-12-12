@@ -1,0 +1,20 @@
+{
+  "name": "backbone-single-requests",
+  "version": "0.1",
+  "description": "",
+  "main": "backbone-single-requests.js",
+  "scripts": {},
+  "keywords": [],
+  "author": {
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/natsort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bubkoo/natsort/issues"
+  },
+  "homepage": "https://github.com/bubkoo/natsort#readme",
+  "devDependencies": {}
+}
